@@ -7,8 +7,8 @@ import TestimonialsPreview from '@/components/TestimonialsPreview'
 import CTASection from '@/components/CTASection'
 
 export const metadata: Metadata = {
-  title: 'SRK Engineers - Leading Civil & Mechanical Construction Company',
-  description: 'SRK Engineers is a premier construction company specializing in civil and mechanical engineering projects. We deliver excellence in infrastructure development and industrial construction.',
+  title: 'SRK Projects - Leading Civil & Mechanical Construction Company',
+  description: 'SRK Projects is a premier construction company specializing in civil and mechanical engineering projects. We deliver excellence in infrastructure development and industrial construction.',
   keywords: 'construction company, civil engineering, mechanical engineering, infrastructure development, industrial projects',
 }
 

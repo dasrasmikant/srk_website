@@ -3,7 +3,7 @@ import { Building2, Wrench, HardHat, Truck, Cog, Ruler, CheckCircle, ArrowRight 
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Our Services - SRK Engineers | Construction & Engineering Solutions',
+  title: 'Our Services - SRK Projects | Construction & Engineering Solutions',
   description: 'Comprehensive construction and engineering services including civil construction, mechanical engineering, project management, and infrastructure development.',
   keywords: 'construction services, civil engineering, mechanical engineering, project management, infrastructure development',
 }
@@ -190,7 +190,7 @@ export default function Services() {
         <div className="container-custom">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-secondary-900 mb-4">
-              Why Choose SRK Engineers?
+              Why Choose SRK Projects?
             </h2>
             <p className="text-lg text-secondary-600 max-w-3xl mx-auto">
               Our commitment to excellence, safety, and customer satisfaction sets us apart in the industry.
