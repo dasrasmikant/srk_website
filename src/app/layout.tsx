@@ -7,10 +7,10 @@ import Footer from '@/components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'SRK Engineers - Civil & Mechanical Construction Company',
+  title: 'SRK Projects - Civil & Mechanical Construction Company',
   description: 'Leading civil and mechanical construction company specializing in infrastructure development, industrial projects, and engineering solutions.',
   keywords: 'construction, civil engineering, mechanical engineering, infrastructure, industrial projects',
-  authors: [{ name: 'SRK Engineers' }],
+  authors: [{ name: 'SRK Projects' }],
   robots: 'index, follow',
 }
 

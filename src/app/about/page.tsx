@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import { Users, Award, Target, Shield, Heart, Lightbulb } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'About Us - SRK Engineers | Leading Construction Company',
-  description: 'Learn about SRK Engineers, our mission, values, and the team behind our 25+ years of construction excellence.',
-  keywords: 'about SRK Engineers, construction company history, team, mission, values',
+  title: 'About Us - SRK Projects | Leading Construction Company',
+  description: 'Learn about SRK Projects, our mission, values, and the team behind our 25+ years of construction excellence.',
+  keywords: 'about SRK Projects, construction company history, team, mission, values',
 }
 
 export default function About() {
@@ -37,7 +37,7 @@ export default function About() {
       position: 'CEO & Founder',
       experience: '30+ years',
       image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
-      bio: 'Leading SRK Engineers with over three decades of construction industry experience.'
+      bio: 'Leading SRK Projects with over three decades of construction industry experience.'
     },
     {
       name: 'Sarah Johnson',
@@ -62,7 +62,7 @@ export default function About() {
         <div className="container-custom">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              About SRK Engineers
+              About SRK Projects
             </h1>
             <p className="text-xl md:text-2xl text-primary-100 leading-relaxed">
               Building excellence since 1995, we are a trusted partner in construction and engineering, 
@@ -81,7 +81,7 @@ export default function About() {
                 Our Story
               </h2>
               <p className="text-lg text-secondary-600 mb-6 leading-relaxed">
-                Founded in 1995, SRK Engineers began as a small construction company with a big vision: 
+                Founded in 1995, SRK Projects began as a small construction company with a big vision: 
                 to transform the construction industry through innovation, quality, and customer satisfaction.
               </p>
               <p className="text-lg text-secondary-600 mb-6 leading-relaxed">

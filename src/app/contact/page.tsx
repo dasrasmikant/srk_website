@@ -47,25 +47,25 @@ export default function ContactPage() {
     {
       icon: Phone,
       title: 'Phone',
-      details: '+1 (555) 123-4567',
+      details: '+91 9777577225',
       description: 'Call us during business hours'
     },
     {
       icon: Mail,
       title: 'Email',
-      details: 'info@srkengineers.com',
+      details: 'info@srkprojects.com',
       description: 'We\'ll respond within 24 hours'
     },
     {
       icon: MapPin,
       title: 'Address',
-      details: '123 Construction Ave, Industrial District, City, State 12345',
+      details: 'Janla, Khordha, Bhubaneswar',
       description: 'Visit our office for a meeting'
     },
     {
       icon: Clock,
       title: 'Business Hours',
-      details: 'Monday - Friday: 8:00 AM - 6:00 PM',
+      details: 'Monday - Friday: 10:00 AM - 6:00 PM',
       description: 'Weekend appointments available'
     }
   ]
@@ -293,7 +293,7 @@ export default function ContactPage() {
               {/* Additional Info */}
               <div className="mt-8 bg-primary-50 rounded-xl p-6">
                 <h3 className="text-lg font-semibold text-secondary-900 mb-3">
-                  Why Choose SRK Engineers?
+                  Why Choose SRK Projects?
                 </h3>
                 <ul className="space-y-2 text-sm text-secondary-600">
                   <li className="flex items-center space-x-2">
@@ -340,7 +340,7 @@ export default function ContactPage() {
                 <p className="text-lg font-medium">Google Maps Integration</p>
                 <p className="text-sm">Replace this with actual Google Maps embed code</p>
                 <p className="text-sm mt-2">
-                  Address: 123 Construction Ave, Industrial District, City, State 12345
+                  Address: Janla, Khordha, Bhubaneswar, 751003 
                 </p>
               </div>
             </div>

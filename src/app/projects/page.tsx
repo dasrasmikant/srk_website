@@ -3,7 +3,7 @@ import { MapPin, Calendar, Building2, Users, DollarSign, Clock } from 'lucide-re
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Our Projects - SRK Engineers | Construction Portfolio',
+  title: 'Our Projects - SRK Projects | Construction Portfolio',
   description: 'Explore our portfolio of successful construction projects including commercial buildings, infrastructure, industrial facilities, and residential developments.',
   keywords: 'construction projects, portfolio, commercial buildings, infrastructure, industrial facilities',
 }
